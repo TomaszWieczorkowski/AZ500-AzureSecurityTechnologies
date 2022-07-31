@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '13 - Azure Monitor'
+    title: '13 - Azure Log Analytics
     module: 'Module 04 - Manage security operations'
 ---
 
-# Lab 13: Azure Monitor
+# Lab 13: Azure Log Analytics
 # Student lab manual
 
 ## Lab scenario
